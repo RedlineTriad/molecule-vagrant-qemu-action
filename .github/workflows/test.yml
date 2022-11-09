@@ -35,7 +35,6 @@ jobs:
           ANSIBLE_FORCE_COLOR: '1'
         run: |
           docker run \
-          -v /var/run/libvirt/virtqemud-sock:/var/run/libvirt/virtqemud-sock \
           -v $(pwd)/test_files/:/var/test_files \
           ${{ env.IMAGE }}:test \
           sh -c "\
