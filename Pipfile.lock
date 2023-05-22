@@ -49,11 +49,11 @@
         },
         "ansible-lint": {
             "hashes": [
-                "sha256:1f2b796379f86e2dc57f1bfe4288a46c976a1d406d6221ee46e3ac8307f73ca3",
-                "sha256:899beed7baacc6cba5450fd32fb76fc9889688cf0f877d94986d6d24fe239a73"
+                "sha256:086306d5962639100d03701fce589c85549fe1c23e359abc52c91e07f0108e5b",
+                "sha256:93ad8a04adcda6025d4ff218a10694120fe70cb91da8ac9f85c5dc82b32456e4"
             ],
             "index": "pypi",
-            "version": "==6.16.1"
+            "version": "==6.16.2"
         },
         "arrow": {
             "hashes": [
@@ -700,17 +700,17 @@
         },
         "pytest-testinfra": {
             "hashes": [
-                "sha256:0b28076d7088fb0c8e868119639f1259f95dd0e735ae8045ead34433ce8cbc98",
-                "sha256:38c2ce2df4e25f685636c7db9ac15083a7cf3e4a8a997d5fa654e8a7bedeadce"
+                "sha256:9b40828b58fb7ac2bff29cc1465934adf434f10dd5a108f60535dee52660a63d",
+                "sha256:bf7df6306244da6a832f977766e75408317315aa1452c41c30e2541ef7978007"
             ],
-            "version": "==7.0.0"
+            "version": "==8.1.0"
         },
         "pytest-xdist": {
             "hashes": [
-                "sha256:76f7683d4f993eaff91c9cb0882de0465c4af9c6dd3debc903833484041edc1a",
-                "sha256:d42c9efb388da35480878ef4b2993704c6cea800c8bafbe85a8cdc461baf0748"
+                "sha256:d5ee0520eb1b7bcca50a60a518ab7a7707992812c578198f8b44fdfac78e8c93",
+                "sha256:ff9daa7793569e6a68544850fd3927cd257cc03a7ef76c95e86915355e82b5f2"
             ],
-            "version": "==3.3.0"
+            "version": "==3.3.1"
         },
         "python-dateutil": {
             "hashes": [
